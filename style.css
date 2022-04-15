@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Lora:wght@400;500&family=Plus+Jakarta+Sans:ital,wght@0,300;1,300&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto+Slab:wght@500&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0%;
+}
+header{
+    text-align: center;
+  
+}
+.left{
+    background-color: rgb(226, 255, 226);
+}
+
+.courses{
+    font-size: 2.2rem;
+    letter-spacing: 0.1cm;
+
+    margin-bottom: 20px;
+   padding-top: 20px;
+    font-family: 'My Soul', cursive;
+    font-weight: 100;
+    margin-left: 2rem;
+}
+.ct{
+    background-color: #e5eaee;
+}
+.why{
+    text-align: center;
+ padding-top: 40px;
+ padding-bottom: 20px;
+}
+.provide{
+    background-color:#e5eaee ;
+    text-transform: uppercase;
+}
+.alert{
+    text-align: center;
+    font-size: 1rem;
+}
+
+
+.details{
+ display: inline-block;
+}
+.details{
+    padding-top: 40px;
+   color: white;
+   font-weight: 100;
+}
+.logo{
+    padding-top: 7px;
+    font-weight: 100;
+}
+.insta{
+    padding-top: 7px;
+    font-size: 25px;
+    font-weight: 100;
+}
+.whole{
+    text-align: center;
+    font-weight: 100;
+}
+section{
+    background-color: #043156;
+}
